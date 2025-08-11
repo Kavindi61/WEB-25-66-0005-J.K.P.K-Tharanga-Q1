@@ -2,7 +2,7 @@
 /* Nav bar */
 .btn{
 border-radius: 20px; 
-font-size: xx-small;
+font-size: 0.875rem;
 color:rgb(83, 83, 239) ;
 border-color:rgb(83, 83, 239) ; 
 }
@@ -18,7 +18,7 @@ border-color:rgb(83, 83, 239) ;
     font-weight: bold;
 }
 .hero-text{
-    font-size: small;
+    font-size: 0.875rem;
     color: rgb(186, 183, 183);
     text-align: start;
 }
@@ -37,8 +37,9 @@ border-color:rgb(83, 83, 239) ;
     border-color: rgb(83, 83, 239);
 }
 .hero-image{
-    height: 400px;
-    width: 400px;
+   max-width: 100%;
+        height: auto;
+        max-height: 400px;
     }
 /* Section area 2 */
 .card-title-1{
@@ -58,6 +59,7 @@ border-color:rgb(83, 83, 239) ;
 .card-img-3{
     height: 200px;
     margin: 0%;
+    object-fit: cover;
     
 }
 .card-title{
