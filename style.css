@@ -40,4 +40,59 @@ border-color:rgb(83, 83, 239) ;
     height: 400px;
     width: 400px;
     }
+/* Section area 2 */
+.card-title-1{
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.card-1{
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+    background-color: rgba(32, 32, 223, 0.786);
+    width: 17rem;
+    height: 22rem;
+}
+.card-img-3{
+    height: 200px;
+    margin: 0%;
+    
+}
+.card-title{
+    text-align: center;
+    
+}
+.text1{
+    color: white;
+    text-align: center;
+    font-size: x-small;
+    margin-top: 10px;
+    
+
+}
+.card-2{
+   border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+    background-color:hsla(223, 81%, 88%, 0.364) ;
+    width: 17rem;
+    height: 22rem;
+}
+.text2{
+    color: black;
+    text-align: center;
+    font-size: x-small;
+    margin-top: 10px;
+}
+.card-3{
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+    background-color:hsla(52, 78%, 53%, 0.542) ;
+    width: 17rem;
+    height: 22rem;
+}
+
     
