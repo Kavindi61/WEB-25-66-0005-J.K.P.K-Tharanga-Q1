@@ -94,5 +94,20 @@ border-color:rgb(83, 83, 239) ;
     width: 17rem;
     height: 22rem;
 }
+/* section area 3 */
+.apple_logo{
+   margin-left: 3cm;
+   height: 30px;
+   margin-top: 2px;
+   
+}
+.playstore{
+     height: 40px;
+}
+.chart{
+    margin-top: 10px;
+    height: 350px;
+    margin-left: 5px;
+}
 
     
