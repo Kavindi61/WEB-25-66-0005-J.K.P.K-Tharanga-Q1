@@ -109,5 +109,33 @@ border-color:rgb(83, 83, 239) ;
     height: 350px;
     margin-left: 5px;
 }
+/* Section area 4 */
+.photo1{
+    margin-top: 40px;
+    margin-left: 3cm;
+    height: 150px;
+}
+.number{
+    margin-top: 4cm;
+    margin-left: 2cm;
+    color:rgb(83, 83, 239);
+    font-family: "Lilita One", sans-serif;
+   
+}
+/* section 5 */
+.photo2{
+   margin-top: 3cm;
+   margin-right: 1cm; 
+   height: 250px;
+}
 
-    
+    /* footer */
+    .footer{
+font-family: "Quicksand", sans-serif;
+color: gray;
+font-size: small;
+}
+#form-2{
+    margin-left: 6cm;
+    margin-bottom: 2cm;
+}
